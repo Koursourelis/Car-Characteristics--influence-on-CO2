@@ -3,6 +3,9 @@
 
 This project explores car data using **R**, applying statistical analysis, data visualization, and regression modeling to examine relationships between key variables such as **fuel consumption**, **engine characteristics**, and **CO₂ emissions**.
 
+![Banner](banner.png)
+
+
 ## 📊 What’s Inside
 
 - Descriptive statistics
