@@ -13,7 +13,25 @@ This project explores car data using **R**, applying statistical analysis, data 
 
 ## 📁 Dataset
 
-The dataset was scraped from [Autotriti.com](https://www.autotriti.com/) and includes various technical and environmental specifications of car models.
+The dataset was scraped from [Autotriti.gr](https://www.autotriti.gr/) and includes various technical and environmental specifications of car models.
+
+## 📚 Report & Presentation
+
+This project includes a written report and a presentation that summarize the key findings and analysis process:
+
+### 📝 Report
+- A detailed statistical analysis of the car dataset
+- Includes data preparation, descriptive statistics, correlation and regression analysis
+- Offers interpretation of the results and insights into the relationship between car characteristics and environmental impact
+
+➡️ [View Report (PDF)](Report/Report.pdf)
+
+### 📊 Presentation
+- A concise summary of the methodology and major findings
+- Designed for academic or professional presentation
+
+➡️ [View Presentation (PDF)](Presentation/Presentation.pdf)
+
 
 ## ⚙️ Tools Used
 
